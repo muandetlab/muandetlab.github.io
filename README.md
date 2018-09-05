@@ -1,5 +1,5 @@
-# Muandet Lab
+# Muandet Group
 
-I hope this will soon become a webpage of my lab!
+I am currently interested in machine learning for observational studies.
 
 For now, you can find more information about my research at http://krikamol.org
