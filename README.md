@@ -1,4 +1,4 @@
-# Muandet Group
+# Welcome
 
 I am currently interested in machine learning for observational studies.
 
